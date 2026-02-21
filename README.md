@@ -1,2 +1,2 @@
-# Arduino-LED-Traffic-Light-Blinking-LEDs-5-10-15-times
-Simple First Blinking LED Project with arduino on a loop
+# Arduino-LED-Traffic-Light-Blinking-LEDs
+Introductory embedded systems project controlling LED patterns on an Arduino.
