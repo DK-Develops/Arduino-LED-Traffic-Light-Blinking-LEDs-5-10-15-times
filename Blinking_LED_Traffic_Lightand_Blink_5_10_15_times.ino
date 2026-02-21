@@ -55,16 +55,5 @@ digitalWrite(10,HIGH);
 }
  delay(3000);
 
-
-
-
-
-
-
-
-
-
-
-
 }
 
